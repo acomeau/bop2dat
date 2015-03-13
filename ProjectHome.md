@@ -1,0 +1,1 @@
+This project aims to develop matlab code to take AC-S raw (binary) data, convert it, and apply the relevant corrections.
